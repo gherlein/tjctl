@@ -22,6 +22,14 @@ a linux PC, and somehow making a real telephone call with it all these years lat
 
 It won't be boring!
 
+## Board Photos
+
+![bottom](https://github.com/gherlein/tjctl/blob/master/images/IMG_2563.jpg)
+
+
+![top](https://github.com/gherlein/tjctl/blob/master/images/IMG_2566.jpg)
+
+
 ## Data Sheets
 
 * [Tiger560](https://github.com/gherlein/tjctl/blob/master/TIGER560_ETC.pdf)
