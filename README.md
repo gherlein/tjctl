@@ -18,8 +18,9 @@ will require a huge amount of modernization.
 ## Goals
 
 Who knows?  But I can definitely envision plugging a vanilla phone into this, plugging it into
-a linux PC, and somehow making a real telephone call with it (bridging through the Amazon
-Chime SDK).  It won't be boring!
+a linux PC, and somehow making a real telephone call with it all these years later.
+
+It won't be boring!
 
 ## Data Sheets
 
