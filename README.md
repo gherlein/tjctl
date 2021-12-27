@@ -24,10 +24,10 @@ It won't be boring!
 
 ## Board Photos
 
-![bottom](https://github.com/gherlein/tjctl/blob/master/images/IMG_2563.jpg)
+![bottom](https://github.com/gherlein/tjctl/blob/master/images/IMG_2563.jpg | width=50)
 
 
-![top](https://github.com/gherlein/tjctl/blob/master/images/IMG_2566.jpg)
+![top](https://github.com/gherlein/tjctl/blob/master/images/IMG_2566.jpg | width=50)
 
 
 ## Data Sheets
