@@ -21,6 +21,11 @@ Who knows?  But I can definitely envision plugging a vanilla phone into this, pl
 a linux PC, and somehow making a real telephone call with it (bridging through the Amazon
 Chime SDK).  It won't be boring!
 
+## Data Sheets
+
+* [Tiger560](https://github.com/gherlein/tjctl/blob/master/TIGER560_ETC.pdf)
+* [Si3210 SLIC](https://github.com/gherlein/tjctl/blob/master/Si3210-SiliconLaboratories.pdf)
+
 ## Credits
 
 Jonathan McDowell <noodles [at] earth.li> did all the core work on this back in the day.
