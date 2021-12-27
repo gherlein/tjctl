@@ -24,9 +24,9 @@ It won't be boring!
 
 ## Board Photos
 
-<img src="https://github.com/gherlein/tjctl/blob/master/images/IMG_2563.jpg" width="50">
+<img src="https://github.com/gherlein/tjctl/blob/master/images/IMG_2563.jpg" width="300">
 
-<img src="https://github.com/gherlein/tjctl/blob/master/images/IMG_2566.jpg" width="50">
+<img src="https://github.com/gherlein/tjctl/blob/master/images/IMG_2566.jpg" width="300">
 
 
 ## Data Sheets
